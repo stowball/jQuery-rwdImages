@@ -1,3 +1,5 @@
+* No longer maintained. This has been superceded by [rwd.images.js](https://github.com/stowball/rwd.images.js)*
+* 
 jQuery RWD Images
 ==============================
 
